@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #fffffe;
+    background: #0f0e17;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;    
+    color: #fffffe;
+}
+h1{
+    font-size: 2.5em;
+    margin: 0;
+    padding-top: 0.5em;
+}
+header hr{
+    width: 10%;
+}
+#icon{
+    font-size: 1.5em;
+}
+section{
+    line-height: 1.9em;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+}
